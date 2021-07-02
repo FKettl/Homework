@@ -1,4 +1,3 @@
 # Homework
-University homework
-
-Any homework or project i may do in classes i'll put in here 
+- Qualquer atividade que tenho nas aulas de programação orientada a objeto 1 estarão sendo postadas aqui.
+- Eu sei que a maioria delas poderiam ter sido feitas de forma mais simples, porém o intuito da atividade é utilizar apenas o que já foi visto em aula.
